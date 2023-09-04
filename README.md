@@ -1,1 +1,1 @@
-This is a project from icodethis which was done by adrian a long ago
+This is a project which was done by adrian from icodethis a long ago
