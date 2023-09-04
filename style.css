@@ -4,3 +4,33 @@
     line-height: 1.4;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.container{
+    height: 100vh;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    background-color: #49789a;
+    display: flex;
+    width: 70%;
+    padding: 40px 40px;
+    border-radius: 10px;
+}
+
+.price{
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.desc{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.standard{
+    padding: 0 14px;
+}
